@@ -34,7 +34,7 @@ Deployment: Vercel
 git clone https://github.com/<your-username>/smart-bookmark-app.git
 cd smart-bookmark-app
 
-2️2) Install dependencies
+2️) Install dependencies
 npm install
 
  Environment Variables
@@ -50,7 +50,7 @@ NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT_ID.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_ANON_KEY
 
 
-👉You can find these in:
+You can find these in:
 Supabase Dashboard → Project Settings → API
 
 ▶️ Run Locally
