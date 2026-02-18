@@ -73,3 +73,6 @@ created_at	timestamp
 
 Enable Row Level Security (RLS):
 
+
+Deployment Link
+https://smart-bookmark-app.vercel.app/#
