@@ -30,11 +30,11 @@ Styling: Tailwind CSS
 Deployment: Vercel
 
  Setup & Installation
-1️⃣ Clone the repo
+1) Clone the repo
 git clone https://github.com/<your-username>/smart-bookmark-app.git
 cd smart-bookmark-app
 
-2️⃣ Install dependencies
+2️2) Install dependencies
 npm install
 
  Environment Variables
